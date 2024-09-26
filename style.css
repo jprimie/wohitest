@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+}
+
+label#findID {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div#content {
+    background-color: rgb(39,43,48);
+    height: 100vh;
+}
+
+body {
+    background-color: rgb(29, 32, 36);
+}
